@@ -1,0 +1,146 @@
+header {
+	background-image: url("../images/header_bg.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 300px;	
+	width: 100%;
+}
+
+body {
+	margin: 0 15px;
+	font-family: 'Open Sans';
+}
+
+.companyName{
+	padding: 15px 80px;
+    color: #eef9f9;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.subHeader {
+	font-size: 24px;
+    font-weight: 500;
+    color: #eef9f9;
+    margin: 0 auto;
+    width: 410px;
+    padding-top: 20px;
+}
+
+.getItNow{
+	margin: 50px auto;
+    text-align: center;
+    padding: 8px;
+    color: #121212;
+    width: 130px;
+    background-color: #f9e42e;
+    border-radius: 5px;
+    font-weight: 800px;
+    font-size: 14px;
+    font-weight: 900;
+}
+
+.benefits {
+	background-color: #f0efef;
+	padding: 15px;
+	height: 200px;
+	color: #606161;
+
+}
+
+.benefitsTitle {
+	font-size: 20px;
+	font-weight: 700;
+	margin: 10px;
+	color: #033048;
+}
+
+.benefitsparagraph {
+	font-size: 13px;
+	font-weight: 500;
+	padding-left: 25px;
+	line-height: 15px;
+}
+
+.benefitsUnorderedList{
+	font-size: 13px;
+	font-weight: 500;
+	margin: 10px;
+	list-style-type: disc;
+	padding-left: 50px;
+	line-height: 30px;
+}
+
+.signUp {
+	background-color: #f9e42e;
+	text-align: center;
+	height: 50px; 
+	padding-top: 15px;
+}
+
+.signUpButton{
+	background-color: #033048;
+	height: 20px;
+	width: 175px;
+	padding:5px;
+	margin: 0 auto;
+	border:1px solid black;
+	color: white;
+}
+
+.testimonial {
+	font-size: 18px;
+	font-weight: 500;
+	text-align: center;
+	height: 150px;
+	background-image: url("../images/testimonial_bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.testimonialText {
+	width: 400px;
+	padding-top: 35px;
+	padding-bottom: 20px;
+	margin: 0 auto;
+	color: #becccc;
+	font-style: italic;
+}
+
+footer {
+	text-align: center;
+	line-height: 15px;
+	background-color: black;
+}
+
+.footerCompanyName {
+	color: #f9e42e;
+	padding: 20px;
+	font-weight: 800;
+	font-size: 24px;
+}
+
+.copyright{
+	padding: 10px;
+	font-weight: 500;
+	font-size: 9px;
+	color: white;
+}
+
+#twitterLogo{
+    padding: .5px 25px;
+    display: inline;
+    background-image: url(../images/twitter.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 5px;
+}
+
+#facebookLogo{
+    padding: 5px;
+    display: inline;
+    background-image: url(../images/facebook.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
